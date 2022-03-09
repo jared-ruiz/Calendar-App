@@ -24,7 +24,7 @@ for the fifth challenge of my bootcamp, I am tasked with creating a visually upd
 
 ![alt text](./Develop/images/challenge-05%20screenshot.PNG)
 
-link to deployed website: *placeholdertext*
+link to deployed website: https://jared-ruiz.github.io/Calendar-App/
 
 I thought last week was the hardest but this challenge really got me. It's clear bootstrap and jQuery are a lot to process and I definitely need more time to grasp them. Tutoring and sleepless nights managed to help me produce this rough final product. It's not perfect and I need more knowledge and experience to use these skills in the future, but for now, I survived. Here's to another week.
 
